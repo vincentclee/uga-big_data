@@ -1,0 +1,13 @@
+# GACRC
+Host			zcluster
+HostName		zcluster.rcc.uga.edu
+IdentityFile 	~/.ssh/zcluster.rcc.uga.edu/id_rsa
+User			leevince
+
+
+# Host is the alias example: ssh zcluster
+# HostName is the webservers domain, also can use IP address
+# IdentityFile is which private key to use
+## Full Path: /home/vincentlee/.ssh/zcluster.rcc.uga.edu/id_rsa
+## zcluster.rcc.uga.edu is the folder containing the private key
+# User is the username to log into the HostName
